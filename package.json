@@ -1,0 +1,26 @@
+{
+  "name": "mohandemo",
+  "version": "1.0.0",
+  "description": "a first npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HumanBeingAll/npmpackagetest.git"
+  },
+  "keywords": [
+    "mohan",
+    "demo"
+  ],
+  "author": "mohan yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HumanBeingAll/npmpackagetest/issues"
+  },
+  "homepage": "https://github.com/HumanBeingAll/npmpackagetest#readme",
+  "dependencies": {
+    "index.js": "0.0.3"
+  }
+}
